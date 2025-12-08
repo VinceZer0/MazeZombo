@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/vince/OneDrive/Documents/GitHub/MazeZombo/ZombieMaze/Content/TopDown/Input/IMC_Default.uasset",
+				"C:/Users/vince/OneDrive/Documents/GitHub/MazeZombo/ZombieMaze/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/vince/OneDrive/Documents/GitHub/MazeZombo/ZombieMaze/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
+				"C:/Users/vince/OneDrive/Documents/GitHub/MazeZombo/ZombieMaze/Content/TopDown/Input/Actions/IA_Move.uasset",
 				"C:/Users/Vince/Documents/Unreal Projects/ZombieMaze/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
