@@ -15789,3 +15789,114 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.10-12.02.49:359][185]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
 [2025.12.10-12.02.49:359][185]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
 [2025.12.10-12.02.49:359][185]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.07.18:140][494]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 35964.093750
+[2025.12.10-12.07.19:141][497]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-12.07.19:141][497]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 35964.757812, Update Interval: 326.281921
+[2025.12.10-12.09.50:983][953]LogDerivedDataCache: C:/Users/Vince/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.12.10-12.10.06:815][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-12.10.06:856][ 77]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TopDown/Blueprints/BP_Zombie] ([2] browsable assets)...
+[2025.12.10-12.10.06:886][ 77]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TopDown/Blueprints/BP_Zombie.BP_Zombie]
+[2025.12.10-12.10.06:886][ 77]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_Zombie]
+[2025.12.10-12.10.06:893][ 77]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_Zombie
+[2025.12.10-12.10.06:893][ 77]LogSavePackage: Moving '../../../../../../Users/Vince/Documents/Unreal Projects/MazeZombo/ZombieMaze/Saved/BP_Zombie8CFC30184A8CCD95ACA50D937BE65477.tmp' to '../../../../../../Users/Vince/Documents/Unreal Projects/MazeZombo/ZombieMaze/Content/TopDown/Blueprints/BP_Zombie.uasset'
+[2025.12.10-12.10.06:900][ 77]LogFileHelpers: InternalPromptForCheckoutAndSave took 84.364 ms (total: 5.70 sec)
+[2025.12.10-12.10.06:950][ 77]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-12.10.06:950][ 77]LogContentValidation: Enabled validators:
+[2025.12.10-12.10.06:950][ 77]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-12.10.06:950][ 77]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-12.10.06:950][ 77]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-12.10.06:950][ 77]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-12.10.06:950][ 77]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-12.10.06:950][ 77]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-12.10.06:950][ 77]AssetCheck: /Game/TopDown/Blueprints/BP_Zombie Validating asset
+[2025.12.10-12.10.07:096][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:096][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:096][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:096][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:102][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:102][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:102][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:102][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:104][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:104][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:104][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:104][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:109][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:109][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:109][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:109][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:110][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:110][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:110][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:110][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:115][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:115][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:115][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:115][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:116][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:116][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:116][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:116][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:121][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:121][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:121][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:121][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:169][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2025.12.10-12.10.07:180][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:180][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:180][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:180][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:181][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:182][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:182][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:182][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:183][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:183][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:183][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:183][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:184][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:184][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:184][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:184][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:186][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:186][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:186][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:186][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:203][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:203][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:203][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:203][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:204][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:204][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:204][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:204][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:206][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:206][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:206][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:206][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:207][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:207][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:207][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.07:207][ 88]LogSkeletalMesh: Warning: Material with missing usage flag was applied to skeletal mesh /Game/Characters/Mannequins/Meshes/SKM_Manny.SKM_Manny
+[2025.12.10-12.10.12:070][578]LogSlate: Window 'Message Log' being destroyed
+[2025.12.10-12.10.12:074][578]LogSlate: Window 'Message Log' being destroyed
+[2025.12.10-12.10.12:753][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.12.10-12.10.14:201][657]LogSlate: Window 'Save Content' being destroyed
+[2025.12.10-12.10.14:207][657]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-12.10.14:245][657]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/Blueprints/BP_TopDownCharacter] ([2] browsable assets)...
+[2025.12.10-12.10.14:245][657]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/Blueprints/BP_TopDownCharacter]
+[2025.12.10-12.10.14:256][657]LogSavePackage: Moving output files for package: /Game/TopDown/Blueprints/BP_TopDownCharacter
+[2025.12.10-12.10.14:256][657]LogSavePackage: Moving '../../../../../../Users/Vince/Documents/Unreal Projects/MazeZombo/ZombieMaze/Saved/BP_TopDownCharacter60F9FB684912A888BE6C47BE226D8C5D.tmp' to '../../../../../../Users/Vince/Documents/Unreal Projects/MazeZombo/ZombieMaze/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset'
+[2025.12.10-12.10.14:259][657]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/TopDown/Maps/TopDownMap/7/NC/ZU9D0992DPRK4MMRDMHF29
+[2025.12.10-12.10.14:259][657]LogSavePackage: Moving '../../../../../../Users/Vince/Documents/Unreal Projects/MazeZombo/ZombieMaze/Saved/ZU9D0992DPRK4MMRDMHF29C0734B4144CF1B73E11B4C8FF39CF4AB.tmp' to '../../../../../../Users/Vince/Documents/Unreal Projects/MazeZombo/ZombieMaze/Content/__ExternalActors__/TopDown/Maps/TopDownMap/7/NC/ZU9D0992DPRK4MMRDMHF29.uasset'
+[2025.12.10-12.10.14:267][657]LogFileHelpers: InternalPromptForCheckoutAndSave took 59.709 ms (total: 5.76 sec)
+[2025.12.10-12.10.14:311][657]LogContentValidation: Display: Starting to validate 8 assets
+[2025.12.10-12.10.14:311][657]LogContentValidation: Enabled validators:
+[2025.12.10-12.10.14:311][657]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-12.10.14:311][657]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-12.10.14:311][657]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-12.10.14:311][657]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-12.10.14:311][657]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-12.10.14:311][657]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-12.10.14:311][657]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
+[2025.12.10-12.10.14:311][657]AssetCheck: /Game/TopDown/Maps/TopDownMap Validating asset
