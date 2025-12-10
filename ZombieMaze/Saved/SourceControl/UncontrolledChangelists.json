@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/MaterialTemplates/VertexAnimation/SimpleRotation.uasset",
+				"C:/Users/vince/OneDrive/Documents/GitHub/MazeZombo/ZombieMaze/Content/TopDown/Input/IMC_Default.uasset",
+				"C:/Users/vince/OneDrive/Documents/GitHub/MazeZombo/ZombieMaze/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/vince/OneDrive/Documents/GitHub/MazeZombo/ZombieMaze/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
+				"C:/Users/vince/OneDrive/Documents/GitHub/MazeZombo/ZombieMaze/Content/TopDown/Input/Actions/IA_Move.uasset",
+				"C:/Users/vince/OneDrive/Documents/GitHub/MazeZombo/ZombieMaze/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/FO/WQXD431WD5DLXPOWZ46OYA.uasset",
+				"C:/Users/vince/OneDrive/Documents/GitHub/MazeZombo/ZombieMaze/Content/TopDown/Blueprints/BP_Zombie.uasset",
 				"C:/Users/Vince/Documents/Unreal Projects/MazeZombo/ZombieMaze/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
 				"C:/Users/Vince/Documents/Unreal Projects/MazeZombo/ZombieMaze/Content/Characters/Mannequins/Animations/Manny/PistolIdle_UE.uasset",
 				"C:/Users/Vince/Documents/Unreal Projects/MazeZombo/ZombieMaze/Content/Characters/Mannequins/Animations/Manny/PistolRun_UE.uasset",
@@ -42,7 +49,6 @@
 				"C:/Users/Vince/Documents/Unreal Projects/MazeZombo/ZombieMaze/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/IY/6UWMYXY1CXWPRQYBU1D7KA.uasset",
 				"C:/Users/Vince/Documents/Unreal Projects/MazeZombo/ZombieMaze/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/UQ/JUFLZZ2TY3QXLJVJY8VW3M.uasset",
 				"C:/Users/Vince/Documents/Unreal Projects/MazeZombo/ZombieMaze/Content/TopDown/Input/Actions/IA_PickUp.uasset",
-				"C:/Program Files/Epic Games/UE_5.5/Engine/Content/MaterialTemplates/VertexAnimation/SimpleRotation.uasset",
 				"C:/Users/Vince/Documents/Unreal Projects/MazeZombo/ZombieMaze/Content/TopDown/UI/WB_MainMenu.uasset",
 				"C:/Users/Vince/Documents/Unreal Projects/MazeZombo/ZombieMaze/Content/MainMenuMap/NewMap.umap",
 				"C:/Users/Vince/Documents/Unreal Projects/MazeZombo/ZombieMaze/Content/TopDown/UI/BP_MenuGameMode.uasset",
@@ -94,10 +100,6 @@
 				"C:/Users/Vince/Documents/Unreal Projects/MazeZombo/ZombieMaze/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/FD/H6232UBBQPM7MPPYTG2MZ1.uasset",
 				"C:/Users/Vince/Documents/Unreal Projects/MazeZombo/ZombieMaze/Content/__ExternalActors__/TopDown/Maps/TopDownMap/0/QS/8AKCSH4RXXQHHQMCR8GO6C.uasset",
 				"C:/Users/Vince/Documents/Unreal Projects/MazeZombo/ZombieMaze/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/VI/ESHAVRHFZFA2JDR9ZAQIOE.uasset",
-				"C:/Users/vince/OneDrive/Documents/GitHub/MazeZombo/ZombieMaze/Content/TopDown/Input/IMC_Default.uasset",
-				"C:/Users/vince/OneDrive/Documents/GitHub/MazeZombo/ZombieMaze/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
-				"C:/Users/vince/OneDrive/Documents/GitHub/MazeZombo/ZombieMaze/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
-				"C:/Users/vince/OneDrive/Documents/GitHub/MazeZombo/ZombieMaze/Content/TopDown/Input/Actions/IA_Move.uasset",
 				"C:/Users/Vince/Documents/Unreal Projects/ZombieMaze/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
