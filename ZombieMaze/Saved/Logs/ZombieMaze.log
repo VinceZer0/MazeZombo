@@ -15900,3 +15900,23 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.10-12.10.14:311][657]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.10-12.10.14:311][657]AssetCheck: /Game/TopDown/Blueprints/BP_TopDownCharacter Validating asset
 [2025.12.10-12.10.14:311][657]AssetCheck: /Game/TopDown/Maps/TopDownMap Validating asset
+[2025.12.10-12.13.27:963][303]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 36333.023438
+[2025.12.10-12.13.28:964][306]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.10-12.13.28:964][306]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 36333.691406, Update Interval: 327.083954
+[2025.12.10-12.16.01:688][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.12.10-12.16.07:588][440]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.10-12.16.07:632][440]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/TopDown/ZombieMaze] ([2] browsable assets)...
+[2025.12.10-12.16.07:632][440]OBJ SavePackage: Finished generating thumbnails for package [/Game/TopDown/ZombieMaze]
+[2025.12.10-12.16.07:632][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TopDown/ZombieMaze" FILE="../../../../../../Users/Vince/Documents/Unreal Projects/MazeZombo/ZombieMaze/Content/TopDown/ZombieMaze.uasset" SILENT=true
+[2025.12.10-12.16.07:634][440]LogSavePackage: Moving output files for package: /Game/TopDown/ZombieMaze
+[2025.12.10-12.16.07:634][440]LogSavePackage: Moving '../../../../../../Users/Vince/Documents/Unreal Projects/MazeZombo/ZombieMaze/Saved/ZombieMaze970193B6461086CB2FA169B5504F07D7.tmp' to '../../../../../../Users/Vince/Documents/Unreal Projects/MazeZombo/ZombieMaze/Content/TopDown/ZombieMaze.uasset'
+[2025.12.10-12.16.07:643][440]LogFileHelpers: InternalPromptForCheckoutAndSave took 54.843 ms (total: 5.81 sec)
+[2025.12.10-12.16.07:671][440]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.10-12.16.07:671][440]LogContentValidation: Enabled validators:
+[2025.12.10-12.16.07:671][440]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.10-12.16.07:671][440]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.10-12.16.07:671][440]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.10-12.16.07:671][440]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.10-12.16.07:671][440]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.10-12.16.07:671][440]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.10-12.16.07:672][440]AssetCheck: /Game/TopDown/ZombieMaze Validating asset
